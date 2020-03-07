@@ -9,7 +9,7 @@
 
 3) Download MacOS VMDK File
 3a) http://www.mediafire.com/file/so82y39h9gzpphb/macOS_Catalina_Beta.rar/file
-3b) Unrar it
+3b) Unrar it using the password 'Geekrar.com' without the quotes
 
 4) Create a new VM in VirtualBox
 4a) Name it whatever you want and select Type: Mac OS X and Version Mac OS X (64-bit)
